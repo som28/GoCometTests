@@ -41,4 +41,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: allure-report
-          path: ui-tests/allure-report
+          path: ui-tests/allure-results
